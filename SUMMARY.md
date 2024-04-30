@@ -9,3 +9,7 @@
 ## BOAS PRÁTICAS
 
 * [Arquitetura de Pastas (MVC)](boas-praticas/arquitetura-de-pastas-mvc.md)
+
+## BANCO DE DADOS
+
+* [Migrations](banco-de-dados/migrations.md)
