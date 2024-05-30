@@ -6,6 +6,8 @@
 
 * [Introdução ao Machine Learning](machine-learning/introducao-ao-machine-learning.md)
 * [Framework de Modelagem](machine-learning/framework-de-modelagem.md)
+* [Estrutura da ABT](machine-learning/estrutura-da-abt.md)
+* [Safras na ABT](machine-learning/safras-na-abt.md)
 
 ## BOAS PRÁTICAS
 
