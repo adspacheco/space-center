@@ -18,3 +18,7 @@
 ## TESTES AUTOMATIZADOS
 
 * [Softcoded vs Hardcoded](testes-automatizados/softcoded-vs-hardcoded.md)
+
+## ANÁLISE DE DADOS
+
+* [Análise Exploratória](analise-de-dados/analise-exploratoria.md)
