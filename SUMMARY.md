@@ -12,7 +12,7 @@
 
 ## BANCO DE DADOS
 
-* [Interação entre Cliente e Banco de Dados](banco-de-dados/interacao-entre-cliente-e-banco-de-dados.md)
+* [Interação com Cliente](banco-de-dados/interacao-com-cliente.md)
 * [Migrations](banco-de-dados/migrations.md)
 
 ## TESTES AUTOMATIZADOS
