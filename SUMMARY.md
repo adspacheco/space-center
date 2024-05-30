@@ -5,6 +5,7 @@
 ## MACHINE LEARNING
 
 * [Introdução ao Machine Learning](machine-learning/introducao-ao-machine-learning.md)
+* [Framework de Modelagem](machine-learning/framework-de-modelagem.md)
 
 ## BOAS PRÁTICAS
 
