@@ -22,3 +22,4 @@
 ## ANÁLISE DE DADOS
 
 * [Análise Exploratória](analise-de-dados/analise-exploratoria.md)
+* [Estrutura de Camadas de Dados](analise-de-dados/estrutura-de-camadas-de-dados.md)
