@@ -4,11 +4,11 @@ A análise exploratória de dados  é um processo crucial que transforma informa
 
 <figure><img src="../.gitbook/assets/dados.png" alt=""><figcaption></figcaption></figure>
 
-Inicia-se com a compreensão dos tipos de dados, que podem ser de seção transversal ou de série histórica, e da identificação de valores ausentes. '
+Inicia-se com a compreensão dos tipos de dados, que podem ser de seção transversal ou de série histórica, e da identificação de valores ausentes.&#x20;
 
-A categorização dos tipos de variáveis é essencial, distinguindo entre qualitativas (ordinal e nominal) e quantitativas (discreta e contínua). O
+A categorização dos tipos de variáveis é essencial, distinguindo entre qualitativas (ordinal e nominal) e quantitativas (discreta e contínua).&#x20;
 
-&#x20;uso de pacotes computacionais, como R e Python, facilita a manipulação e análise dos dados, considerando aspectos como população e amostra.&#x20;
+O uso de pacotes computacionais, como R e Python, facilita a manipulação e análise dos dados, considerando aspectos como população e amostra.&#x20;
 
 A análise de dados qualitativos envolve a distribuição de frequências e a criação de gráficos de barra e setores, enquanto os dados quantitativos requerem medidas de posição (como mínimo, máximo, moda, média, mediana, quartis e percentis) e medidas de dispersão (como variância, desvio padrão e coeficiente de variação).&#x20;
 
