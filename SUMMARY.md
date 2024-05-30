@@ -14,3 +14,7 @@
 
 * [Interação entre Cliente e Banco de Dados](banco-de-dados/interacao-entre-cliente-e-banco-de-dados.md)
 * [Migrations](banco-de-dados/migrations.md)
+
+## TESTES AUTOMATIZADOS
+
+* [Softcoded vs Hardcoded](testes-automatizados/softcoded-vs-hardcoded.md)
