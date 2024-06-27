@@ -26,3 +26,7 @@
 
 * [Análise Exploratória](analise-de-dados/analise-exploratoria.md)
 * [Estrutura de Camadas de Dados](analise-de-dados/estrutura-de-camadas-de-dados.md)
+
+## DESENVOLVIMENTO WEB
+
+* [Início de Projeto Django](desenvolvimento-web/inicio-de-projeto-django.md)
